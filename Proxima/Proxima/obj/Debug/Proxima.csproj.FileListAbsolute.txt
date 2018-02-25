@@ -1,0 +1,7 @@
+C:\Users\Jo\Desktop\thief Website\textBaseRPG\Proxima\Proxima\bin\Debug\Proxima.exe.config
+C:\Users\Jo\Desktop\thief Website\textBaseRPG\Proxima\Proxima\bin\Debug\Proxima.exe
+C:\Users\Jo\Desktop\thief Website\textBaseRPG\Proxima\Proxima\bin\Debug\Proxima.pdb
+C:\Users\Jo\Desktop\thief Website\textBaseRPG\Proxima\Proxima\obj\Debug\Proxima.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\thief Website\textBaseRPG\Proxima\Proxima\obj\Debug\Proxima.csproj.CoreCompileInputs.cache
+C:\Users\Jo\Desktop\thief Website\textBaseRPG\Proxima\Proxima\obj\Debug\Proxima.exe
+C:\Users\Jo\Desktop\thief Website\textBaseRPG\Proxima\Proxima\obj\Debug\Proxima.pdb
