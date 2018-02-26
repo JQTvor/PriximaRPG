@@ -16,10 +16,21 @@ namespace Proxima
             MoveLoop:
             string input = Console.ReadLine().ToLower();
 
-            if(input == "go east")
+            if(input == "go east" || input=="go land")
             {
-                Landing l = new Landing();
-                l.LandingGo();
+                Random swim = new Random();
+                int rng = swim.Next(1,21);
+                Console.WriteLine("You try to swim toward shore. Roll: " + rng);
+                if (rng > 5)
+                {
+                    Landing l = new Landing();
+                    l.LandingGo();
+                }
+                else
+                {
+                    Console.WriteLine("The faulter and make no progress towards shore.");
+                    goto MoveLoop;
+                }
             }
             else if(input == "perceive" || input == "p")
             {
